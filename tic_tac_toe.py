@@ -1,8 +1,5 @@
-# Curso: Python Básico (4.7.2.1)
-
 # Laboratorio: Juego del Gato (Tic-Tac-Toe)
-# Detalle: Proyecto Final del Curso de Python Básico.
-
+# Detalle: Juego del Gato utilizando los fundamentos de Python (PCEP)
 
 # Librería Integrada Python para utilizar números aleatorios (se requiere para que la máquina pueda realizar sus movimientos al azar)
 from random import randrange
